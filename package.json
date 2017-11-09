@@ -6,7 +6,7 @@
   "repository": "https://github.com/kontakten/impulSe",
   "author": "kontakten",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "webpack": "^3.8.1"
   }
 }
